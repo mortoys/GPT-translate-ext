@@ -8,6 +8,8 @@ Welcome to the GPT Translate Web Extension Demo! This browser extension offers a
 - **Quick Access**: Perform translations directly in your browser without the need for external websites or applications.
 - **Support for Multiple Languages**: Utilizes the powerful GPT models to support translations across a variety of languages.
 
+![](./record.gif)
+
 ## Installation
 
 To get started with the GPT Translate Web Extension, follow these steps:
