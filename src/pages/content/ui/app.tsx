@@ -1,9 +1,5 @@
-import { useEffect } from 'react';
+import TranslateButton from './TranslateButton';
 
 export default function App() {
-  useEffect(() => {
-    console.log('content view loaded');
-  }, []);
-
-  return <div className="">content view</div>;
+  return <TranslateButton />;
 }

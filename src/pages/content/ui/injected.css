@@ -1,0 +1,19 @@
+.float-box {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.overlay {
+    position: absolute;
+    background-color: white;
+    padding: 20px;
+    z-index: 1001;
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 50%;
+}
